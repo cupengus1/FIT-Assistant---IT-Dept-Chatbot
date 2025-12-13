@@ -1,18 +1,4 @@
 # 🎓 FIT Assistant - Chatbot Hỗ Trợ Khoa CNTT
-
-<div align="center">
-
-![FIT Assistant Banner](https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6)
-
-**Hệ thống chatbot AI thông minh dành cho sinh viên và quản trị viên Khoa Công Nghệ Thông Tin**
-
-[![TypeScript](https://img.shields.io/badge/TypeScript-5.8-blue.svg)](https://www.typescriptlang.org/)
-[![React](https://img.shields.io/badge/React-19.2-61dafb.svg)](https://reactjs.org/)
-[![Vite](https://img.shields.io/badge/Vite-6.2-646cff.svg)](https://vitejs.dev/)
-[![Supabase](https://img.shields.io/badge/Supabase-2.39-3ecf8e.svg)](https://supabase.com/)
-
-</div>
-
 ---
 
 ## 📋 Mục Lục
